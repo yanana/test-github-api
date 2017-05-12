@@ -1,6 +1,7 @@
 {
   "status": "pending",
   "meta": {
-    "foo": "bar"
+    "foo": 0,
+    "bar": 2
   }
 }
